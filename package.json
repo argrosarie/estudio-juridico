@@ -1,0 +1,11 @@
+{
+  "name": "estudiojuridico",
+  "version": "1.0.0",
+  "description": "webpage de estudio juridico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rosario Sanchez",
+  "license": "MIT"
+}
